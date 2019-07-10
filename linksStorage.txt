@@ -1,0 +1,1 @@
+a:2:{s:24:"http://somethingPath.net";s:83:"http://jenesis.test/?utm_source=facebook&utm_medium=bpt24_sat&utm_campaign=888poker";s:24:"http://somethingPath.com";s:83:"http://jenesis.test/?utm_source=facebook&utm_medium=bpt24_sat&utm_campaign=888joker";}
